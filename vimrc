@@ -29,7 +29,7 @@ let g:notes_directories = ['~/Google Drive/study/Notes']
 let g:notes_suffix = '.txt'
 
 " Disable Arrow Keys. Go Hardcore
-noremap <Up> <NOP>
-noremap <Down> <NOP>
-noremap <Left> <NOP>
-noremap <Right> <NOP>
+"noremap <Up> <NOP>
+"noremap <Down> <NOP>
+"noremap <Left> <NOP>
+"noremap <Right> <NOP>
