@@ -33,4 +33,3 @@ let g:notes_suffix = '.txt'
 "noremap <Down> <NOP>
 "noremap <Left> <NOP>
 "noremap <Right> <NOP>
-"silly comment
