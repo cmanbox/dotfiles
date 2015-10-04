@@ -31,3 +31,8 @@ for file in $files; do
     ln -s $dir/$file ~/.$file
 done
 
+# added by me
+mkdir -p $dir/bundle
+mkdir -p $dir/autoload
+
+

@@ -1,0 +1,3 @@
+[submodule "vim/bundle/railscasts-theme"]
+	path = vim/bundle/railscasts-theme
+	url = git@github.com:jpo/vim-railscasts-theme.git
