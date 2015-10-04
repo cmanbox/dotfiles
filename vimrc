@@ -1,7 +1,7 @@
 execute pathogen#infect()
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 syntax enable
-" #colorscheme railscasts
+colorscheme railscasts
 
 " fix for head tag error in snipmate
 filetype plugin on
