@@ -17,5 +17,10 @@ mkdir -p ~/.vim/colors
 cp ~/dotfiles/railscasts.vim ~/.vim/colors
 
 #add notes.vim
-#cp ~/dotfiles/misc.zip ~/.vim
-#cp ~/dotfiles/notes.zip ~/.vim
+cp ~/dotfiles/misc.zip ~/.vim
+cp ~/dotfiles/notes.zip ~/.vim
+
+cd ~/.vim
+unzip misc.zip
+unzip notes.zip
+
