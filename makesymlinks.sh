@@ -34,5 +34,4 @@ done
 # added by me
 mkdir -p $dir/bundle
 mkdir -p $dir/autoload
-
-
+curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
