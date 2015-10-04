@@ -32,6 +32,5 @@ for file in $files; do
 done
 
 # added by me
-mkdir -p $dir/bundle
-mkdir -p $dir/autoload
+mkdir -p ~/.vim/autoload ~/.vim/bundle
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
