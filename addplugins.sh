@@ -16,4 +16,6 @@ git clone https://github.com/scrooloose/nerdtree.git
 mkdir -p ~/.vim/colors
 cp ~/dotfiles/railscasts.vim ~/.vim/colors
 
-#
+#add notes.vim
+#cp ~/dotfiles/misc.zip ~/.vim
+#cp ~/dotfiles/notes.zip ~/.vim
