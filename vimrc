@@ -13,6 +13,7 @@ command! -bar -nargs=1 OpenURL :!open -a firefox <args>
 set tabstop=2
 set smartindent
 set autoindent
+set clipboard=unnamed
 
 " autocmd VimEnter * NERDTree
 " remap c-w c-w to tab tab
